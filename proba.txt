@@ -1,1 +1,2 @@
 fgh
+echo 'Sabina izmenjeno';
